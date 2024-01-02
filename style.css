@@ -1,0 +1,30 @@
+body{
+    background-color:#212121;
+}
+.navbar{
+    background-color: rgb(119, 122, 32);
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+table,
+th,
+td {
+  border: 1px solid rgb(119, 122, 32);
+}
+.project {
+  /* background-color: #1c1c1c; */
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 91vh;
+  font-size:30px;
+}
+.color{
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    font-size:30px;
+}
